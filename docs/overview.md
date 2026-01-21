@@ -1,4 +1,4 @@
-#AVD
+# AVD
 Azure Virtual Desktop (AVD) is a cloud-based desktop and application virtualization solution that enables organizations to provide secure remote access to Windows desktops and applications from anywhere.
 
 ## Project Objectives
