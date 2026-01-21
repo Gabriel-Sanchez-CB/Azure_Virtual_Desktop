@@ -1,0 +1,25 @@
+# Script 
+
+mkdir -p docs knowledge-prerequisites architecture deployment scripts configuration security troubleshooting costs images/screenshots images/diagrams changelog
+
+touch docs/overview.md
+touch docs/requirements.md
+touch docs/prerequisites.md
+touch docs/glossary.md
+
+touch knowledge-prerequisites/overview.md
+touch knowledge-prerequisites/azure-fundamentals.md
+touch knowledge-prerequisites/networking-basics.md
+touch knowledge-prerequisites/identity-and-access.md
+touch knowledge-prerequisites/windows-server-basics.md
+touch knowledge-prerequisites/powershell-basics.md
+touch knowledge-prerequisites/virtualization-concepts.md
+
+touch architecture/README.md
+touch deployment/README.md
+touch scripts/README.md
+touch configuration/README.md
+touch security/README.md
+touch troubleshooting/README.md
+touch costs/README.md
+touch changelog/CHANGELOG.md
