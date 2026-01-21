@@ -54,6 +54,14 @@ As part of the permissions and access configuration, I also set up single sign-o
 
 Finally, I validated access by signing in to the Azure Virtual Desktop web client through the browser. After logging in with the assigned user credentials, the virtual desktop loaded correctly, confirming that the permission configuration and Microsoft Entra ID sign-in work as expected.
 
+
+
 ![RG](/image/Screenshots/Web.png)
 
 With this, the web-based virtual desktop environment is fully operational and accessible to end users, giving us confidence that all usage remains within a controlled and centrally managed environment.
+
+## Further Learning
+If you’re interested in this topic and want to dive deeper, I’m sharing the official Microsoft guide that helped me build this implementation. 
+https://learn.microsoft.com/en-us/training/paths/plan-azure-virtual-desktop-implementation/
+
+I hope you find it useful too!
