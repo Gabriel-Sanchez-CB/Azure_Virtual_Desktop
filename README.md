@@ -61,7 +61,8 @@ Finally, I validated access by signing in to the Azure Virtual Desktop web clien
 With this, the web-based virtual desktop environment is fully operational and accessible to end users, giving us confidence that all usage remains within a controlled and centrally managed environment.
 
 ## Further Learning
-If you’re interested in this topic and want to dive deeper, I’m sharing the official Microsoft guide that helped me build this implementation. 
+If you’re interested in this topic and want to dive deeper, I’m sharing the official Microsoft guide that helped me build this implementation: 
+
 https://learn.microsoft.com/en-us/training/paths/plan-azure-virtual-desktop-implementation/
 
 I hope you find it useful too!
